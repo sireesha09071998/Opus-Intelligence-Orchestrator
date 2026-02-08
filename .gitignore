@@ -1,0 +1,14 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# System files
+.DS_Store
